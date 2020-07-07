@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+    max-height: 50px;
+}
+
+
+.baslik{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: cyan;
+}
+.ilkyazi{
+    text-align: center;
+    color: darkcyan;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
